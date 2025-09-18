@@ -9,7 +9,8 @@ const App=()=>{
     let clothes={
         Title:"cloth",
         Brand:"Aman",
-        Price:"999"
+        Price:"999",
+        Des:"good"
     }
     return(
         <>

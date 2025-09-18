@@ -13,6 +13,7 @@ import React from "react";
      <h1>{Title}</h1>
     <h2>{Brand}</h2>
     <h4>{Price}</h4>
+    <h5>{Des}</h5>
     
     
    <p>
