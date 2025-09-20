@@ -1,8 +1,8 @@
 import { createRoot } from 'react-dom/client'
 import "./style.css"
-import App from './Tailwind.jsx'
+import App2 from './Tailwind2.jsx'
 
 
 createRoot(document.getElementById('root')).render(
-    <App />
+    <App2/>
 )
