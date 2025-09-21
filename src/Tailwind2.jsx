@@ -7,13 +7,14 @@ const App2=()=>{
       <header className="flex justify-around p-2 border bg-amber-400">
         <img src={pic} alt="" />
         <nav>
-           <ul className="block sm:flex gap-3 w-f" >
+           <ul className="block sm:flex gap-3 w-full" >
            <li className="hover:bg-amber-50">About</li>
            <li className="hover:bg-amber-50">Service</li>
            <li className="hover:bg-amber-50">Home</li>
            <li className="hover:bg-amber-50">Contact</li>
            <li className="hover:bg-amber-50">Registration</li>
            </ul>
+           
         
         </nav>
         <button className="rounded-4xl bg-red-600 p-2 hover:bg-amber-900">Download</button>
