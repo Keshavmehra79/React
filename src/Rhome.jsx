@@ -2,7 +2,7 @@ import React from "react";
 const Rhome =()=>{
     return(
         <>
-        <h1>Rhome</h1>
+        <h1>Home</h1>
         
         </>
     )

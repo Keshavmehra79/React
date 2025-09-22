@@ -1,5 +1,5 @@
 import React from "react";
-import Cards from "./Cards"
+import Cards from "./Cards.jsx"
 import img from "./assets/html.png"
 import img2 from "./assets/css.png"
 import img3 from "./assets/js.png"
