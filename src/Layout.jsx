@@ -16,8 +16,8 @@ const Layout=()=>{
                 </ul>
             </nav>
         </header>
-        {/* Component will render here */}
-        <Outlet/>
+        {/* Componen    t will render here */}
+        <Outlet/>       
 
         <h1>
             Footer
