@@ -5,12 +5,7 @@ const CChild=()=>{
     // const Mydata=useContext(Mycontext)
     // const theme=useContext(Mycontext)
     const {obj,arr,num,theme}=useContext(Mycontext)
-    const[bgcolor,func]=useState({
-        dark:{
-            "background-color":"white",
-            "color":"black"
-        }
-    })
+    
       
     return(
         <>
