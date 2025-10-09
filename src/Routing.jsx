@@ -1,5 +1,6 @@
 import React from "react";
-import {Route,Link,Routes} from "react-router-dom";
+// import {Route,Link,Routes} from "react-router-dom";
+import { Route,Routes } from "react-router-dom";
 
 import Rhome from "./Rhome";    
 import Rcontact from "./Rcontact";    
