@@ -1,0 +1,23 @@
+{
+    "hotel":[
+        {
+            "name":"keshav",
+            "age":22,
+            "city":"Bhopal",
+            "checkin":"20-04-2025",
+            "price":1000
+        },{
+             "name":"naeem",
+            "age":12,
+            "city":"indore",
+            "checkin":"10-04-2025",
+            "price":200
+        },{
+             "name":"aman",
+            "age":2,
+            "city":"rewa",
+            "checkin":"20-04-2035",
+            "price":1400
+        }
+    ]
+}
