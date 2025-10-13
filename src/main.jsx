@@ -1,6 +1,6 @@
 import { createRoot } from 'react-dom/client'
 import "./style.css"
-import App2 from "./CRUD.jsx"
+import App2 from "./jsonprctc.jsx"
 
 // import App2 from "./map.jsx"
 import { BrowserRouter, useParams } from 'react-router-dom'

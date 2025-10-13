@@ -1,0 +1,37 @@
+{
+  "formdata": [
+    {
+      "id": "9d16",
+      "name": "keshav bhai",
+      "age": "22",
+      "city": "Indore",
+      "checkin": "2025-10-08",
+      "checkout": "2025-10-02",
+      "people": "",
+      "": "2",
+      "price": 1000
+    },
+    {
+      "id": "20a4",
+      "name": "Arjun wishvkarma",
+      "age": "23",
+      "city": "Ujjain",
+      "checkin": "2025-10-08",
+      "checkout": "2025-10-02",
+      "people": "",
+      "": "1",
+      "price": 1000
+    },
+    {
+      "id": "097b",
+      "name": "naem khan",
+      "age": "23",
+      "city": "Ujjain",
+      "checkin": "2025-10-08",
+      "checkout": "2025-10-02",
+      "people": "",
+      "": "1",
+      "price": 1000
+    }
+  ]
+}

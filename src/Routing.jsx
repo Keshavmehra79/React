@@ -20,10 +20,6 @@ const App=()=>{
         <Route path="service" element={<Rservice/>}/>
         <Route path="contact" element={<Rcontact/>}/>
         <Route path="*" element={<h1>Error</h1>}/>
-
-            
-
-
         </Route>
 
     </Routes>

@@ -18,10 +18,10 @@ const Layout=()=>{
         </header>
         {/* Componen    t will render here */}
         <Outlet/>       
-
+{/* 
         <h1>
             Footer
-        </h1>
+        </h1> */}
         </>
     )
 }
