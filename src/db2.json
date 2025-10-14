@@ -1,37 +1,40 @@
 {
   "formdata": [
     {
-      "id": "9d16",
       "name": "keshav bhai",
       "age": "22",
-      "city": "Indore",
       "checkin": "2025-10-08",
       "checkout": "2025-10-02",
-      "people": "",
-      "": "2",
-      "price": 1000
+      "people": "4",
+      "price": 500,
+      "id": "9d16"
     },
     {
-      "id": "20a4",
-      "name": "Arjun wishvkarma",
+      "name": "Arjun Dalla",
       "age": "23",
-      "city": "Ujjain",
       "checkin": "2025-10-08",
       "checkout": "2025-10-02",
-      "people": "",
-      "": "1",
-      "price": 1000
+      "people": "5",
+      "price": 500,
+      "id": "20a4"
     },
     {
-      "id": "097b",
-      "name": "naem khan",
+      "name": "naeem bhadwa",
       "age": "23",
-      "city": "Ujjain",
       "checkin": "2025-10-08",
       "checkout": "2025-10-02",
-      "people": "",
-      "": "1",
-      "price": 1000
+      "people": "1",
+      "price": 500,
+      "id": "097b"
+    },
+    {
+      "name": "Abhishek harami",
+      "age": "12",
+      "checkin": "2025-10-01",
+      "checkout": "2025-10-03",
+      "people": "3",
+      "price": 500,
+      "id": "dc17"
     }
   ]
 }
