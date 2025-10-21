@@ -5,7 +5,7 @@ const App=()=>{
     // let Title="phone"
     // let Brand ="mobile"
     // let Price="111"
-
+//////////////////////////
     let clothes={
         Title:"cloth",
         Brand:"Aman",
